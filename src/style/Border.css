@@ -1,0 +1,16 @@
+
+.beforeBorder {
+    border-right: 2px solid rgb(212, 213, 214);
+    padding-right: 4px
+}
+.afterBorder {
+    padding-left: 4px
+}
+
+.left-border {
+    border-left: 2px solid rgb(106, 112, 124);
+}
+
+.right-border {
+    border-right: 1px solid rgb(35, 40, 49);
+}

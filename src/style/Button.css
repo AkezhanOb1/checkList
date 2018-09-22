@@ -1,0 +1,23 @@
+#CheckButton {
+    width: 250px;
+    height: 44px;
+    border-radius: 3px;
+    border: 1px solid #cdcfd3;
+    background-color: #cdcfd3;
+    padding: 0;
+    font-size: 22px;
+    font-weight: 400;
+}
+
+#CheckButton {
+    color: #303845;
+}
+
+
+#finalButton {
+    width: 130px;
+    height: 44px;
+    border-radius: 3px;
+    color: white;
+    margin-top: 30px;
+}

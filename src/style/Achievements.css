@@ -1,0 +1,152 @@
+.check-goods {
+    width: 100%;
+    position: absolute;
+    top: 90px;
+    margin-top: 15px;
+    background-color: rgb(50, 56, 69);
+}
+
+.check-items {
+    display: flex;
+    padding: 20px;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.date-info {
+    font-size: 12px;
+}
+
+
+
+.check-item {
+    margin: 0 5px 5px 0;
+}
+
+
+.outter3 {
+    border: 2px solid rgb(105, 110, 122);
+    border-radius: 50%;
+    margin: 0 auto;
+    width: 50px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+
+}
+
+.outter {
+    border: 2px solid rgb(225, 148, 45);
+    border-radius: 50%;
+    margin: 0 auto;
+    width: 50px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+}
+
+.outter2 {
+    border: 2px solid rgb(58, 154, 196);
+    border-radius: 50%;
+    margin: 0 auto;
+    width: 50px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+}
+
+
+@media only screen and (max-width: 1300px) and (max-height: 950px) {
+    .achieveImage {
+        width: 20px;
+    }
+
+    .outter3 {
+        width: 40px;
+        height: 40px;
+    }
+
+
+    .outter {
+        width: 40px;
+        height: 40px;
+    }
+
+    .outter2 {
+        width: 40px;
+        height: 40px;
+    }
+
+    .date-info {
+        font-size: 11px;
+    }
+
+    .check-items {
+        padding: 20px 0 20px 20px;
+    }
+}
+
+
+
+
+@media only screen and (max-width: 1440px) and (max-height: 901px) {
+    .achieveImage {
+        width: 20px;
+    }
+
+    .outter3 {
+        width: 40px;
+        height: 40px;
+    }
+
+
+    .outter {
+        width: 40px;
+        height: 40px;
+    }
+
+    .outter2 {
+        width: 40px;
+        height: 40px;
+    }
+
+    .date-info {
+        font-size: 11px;
+    }
+    .check-item {
+
+    }
+}
+
+@media only screen and (max-width: 1280px) and (max-height: 801px) {
+    .achieveImage {
+        width: 15px;
+    }
+
+    .outter3 {
+        width: 35px;
+        height: 35px;
+    }
+
+
+    .outter {
+        width: 35px;
+        height: 35px;
+    }
+
+    .outter2 {
+        width: 35px;
+        height: 35px;
+    }
+
+    .date-info {
+        font-size: 10px;
+    }
+
+}

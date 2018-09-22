@@ -1,0 +1,23 @@
+
+@import url('https://stackpath.bootstrapcdn.com/bootstrap/4.1.2/css/bootstrap.min.css');
+@import url('https://use.fontawesome.com/releases/v5.1.1/css/all.css');
+@import url('./style/Reset.css');
+@import url('./style/Border.css');
+@import url('./style/Constants.css');
+@import url('./style/Messages.css');
+@import url('./style/Images.css');
+@import url('./style/Logo.css');
+@import url('./style/Button.css');
+@import url('style/Achievements.css');
+@import url('style/ChartStyle.css');
+@import url('style/Footer.css');
+@import url('./style/Photo.css');
+@import url('style/MainPart.css');
+@import url('style/InputField.css');
+@import url('style/UserInfo.css');
+@import url('style/DoneElements.css');
+@import url('style/ControlPane.css');
+@import url('./style/Font-Size.css');
+@import url('style/WeatherAndTime.css');
+@import url('Containers/Pages/Marketer/CheckPages/CheckMousePage/CheckMousePage.css');
+@import url('style/Animation/Animation.css');

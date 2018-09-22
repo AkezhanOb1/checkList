@@ -1,0 +1,49 @@
+
+
+.arrow {
+    position: relative;
+    left: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    height: 45px;
+}
+
+.arrow i {
+    color: white;
+}
+
+.arrow i:hover {
+    cursor: pointer;
+    color: rgb(225, 148, 45);
+}
+
+
+.control-arrows {
+    display: flex;
+    position: absolute;
+    bottom: 0;
+    width: 92%;
+    justify-content: space-between;
+    z-index: 5;
+    padding: 10px 0 10px 30px;
+}
+
+.control-arrows p:hover {
+    color: rgb(225, 148, 45);
+    cursor: pointer;
+}
+
+.control-arrows i {
+    padding-right: 5px;
+}
+
+
+.showButton {
+    position: absolute;
+    top:50%;
+    right: 0;
+    padding: 10px;
+    background-color: #2f3542;
+}

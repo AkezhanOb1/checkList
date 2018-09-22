@@ -1,0 +1,40 @@
+.input-field {
+    display:flex;
+    justify-content: center;
+}
+
+.input-field input {
+    width: 250px;
+    height: 44px;
+    padding-left: 10px;
+    border: 1px solid rgb(105, 111, 123);
+    border-radius: 3px;
+    background-color: rgb(47, 53, 66);
+    color: rgb(255, 255, 255);
+}
+
+.input-field #finalInput {
+   background-color: rgb(225, 148, 45);
+}
+
+.form-line input[type="button"]:hover {
+    cursor: pointer;
+}
+
+.input-field img:hover {
+    cursor: pointer;
+}
+
+::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: rgb(255, 255, 255);
+    opacity: 1; /* Firefox */
+}
+
+.my-progrss-bar {
+    width: 10%;
+    height: 3px;
+    background: rgb(225, 148, 45);
+}
+
+
+

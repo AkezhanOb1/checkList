@@ -1,0 +1,21 @@
+.Userimage {
+    margin-top: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.Userimage img {
+    width: 320px;
+    height: 230px;
+}
+
+.re-do {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 10px;
+    cursor: pointer;
+}
+

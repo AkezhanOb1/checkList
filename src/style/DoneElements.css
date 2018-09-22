@@ -1,0 +1,46 @@
+
+.tasks {
+    position: absolute;
+    padding-left: 20px;
+    height: 200px;
+    bottom: 120px;
+    display: flex;
+    flex-direction: column;
+}
+
+.tasks:first-child {
+    position: absolute;
+    top: 0;
+}
+
+.task {
+
+}
+
+.task i {
+    padding-right: 5px;
+}
+
+.task .fa-check-square {
+    color: rgb(127, 240, 51);
+}
+
+.task img {
+    padding-right: 5px;
+
+}
+
+
+@media only screen and (max-width: 1440px) and (max-height: 901px) {
+    .tasks {
+        bottom: 60px;
+    }
+
+}
+
+@media only screen and (max-width: 1280px) and (max-height: 801px) {
+    .tasks {
+        bottom: 40px;
+    }
+
+}

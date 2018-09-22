@@ -1,0 +1,19 @@
+
+.regular {
+    color: rgb(102, 106, 115);
+}
+
+.special-Gold {
+    color: rgb(225, 148, 45);
+}
+
+.white {
+    color: rgb(255, 255, 255);
+}
+
+.warning {
+    color: rgb(255, 94, 94);
+}
+.special-Blue {
+    color: rgb(55, 100, 127);
+}

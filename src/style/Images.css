@@ -1,0 +1,13 @@
+.heartImage {
+    width: 10px;
+    height: 10px;
+    cursor: pointer;
+}
+
+.weather-image {
+    width: 50px;
+}
+
+.achieveImage {
+    width: 30px;
+}

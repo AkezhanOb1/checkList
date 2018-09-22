@@ -1,0 +1,33 @@
+
+
+.fs_12 {
+    font-size: 11px;
+}
+
+.fs_17 {
+    font-size: 17px;
+}
+
+
+.fs_20 {
+    font-size: 20px;
+}
+
+.fs_30 {
+    font-size: 30px;
+}
+
+.fs_40 {
+    font-size: 40px;
+}
+
+@media screen and (max-width: 1400px){
+    .fs_30 {
+        font-size: 20px !important;
+    }
+}
+@media screen and (max-width: 1000px) {
+    .fs_30 {
+        font-size: 15px;
+    }
+}
